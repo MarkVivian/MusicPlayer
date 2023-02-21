@@ -1,0 +1,23 @@
+{
+"All_music" : [{
+	"musicName" : "",
+	"musicArtist" : "",
+	"musicId" : "",
+	"musicLength" : "",
+	"musicDate" : "",
+	"musicGenre" : ""
+	},
+			  ],
+"Favourites" : [{
+ 	"musicId" : "", 
+ 	"musicName" : "",
+ 	"musicId" : "",
+ 	"musicArtist" : ""
+}
+			    ],
+"playlist" : [{
+	"playlistName" : "",
+	"musicId" : [""],
+}
+			 ]
+}
