@@ -5,9 +5,11 @@
 	"musicId" : "",
 	"musicLength" : "",
 	"musicDate" : "",
-	"musicGenre" : ""
+	"musicGenre" : "",
+	"musicLocation" : ""
 	},
 			  ],
+
 "Favourites" : [{
  	"musicId" : "", 
  	"musicName" : "",
@@ -15,9 +17,17 @@
  	"musicArtist" : ""
 }
 			    ],
+
 "playlist" : [{
 	"playlistName" : "",
-	"musicId" : [""],
+	"musicId" : [""]
 }
-			 ]
+			 ],
+
+"artistCategory" : [{
+	"musicArtist" : "",
+	"musicId" : [""],
+	"musicName" : [""]
+}				   
+				   ]
 }
